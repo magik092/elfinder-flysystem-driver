@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "studio-42/elfinder": "1.dev",
+        "studio-42/elfinder": "dev-dev",
         "league/flysystem": "^1.0",
         "league/flysystem-cached-adapter": "^1.0",
         "intervention/image": "^2.0"
